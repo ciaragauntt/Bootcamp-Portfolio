@@ -1,0 +1,31 @@
+.topnav {
+    background-color: #41ead4;
+    overflow: hidden;
+}
+
+.name {
+    color: white;
+    background-color:#f71735 ;
+    font-size: 50px;
+    margin: left;
+
+}
+
+.topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #94D2BD;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #EE9B00;
+    color: #001219;
+}
