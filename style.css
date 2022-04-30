@@ -79,6 +79,10 @@ body {
   
 }
 
+.aboutme-p {
+    font-size: 25px;
+}
+
 .photo {
     Image: url("https://mail.google.com/mail/u/0?ui=2&ik=1bdf347f38&attid=0.1&permmsgid=msg-a:r-6098273210628781709&th=180795a91c48872a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9UkWCoKzwgfq-zv_R85riTstkQN6T5VEusM3-JmjvgBSefvLIrHXb7-L7kyBj5Gn7Qv-f6nXHSNYjaQiXZyteboz1Dk29vCksLLPjmM2dbkdNA4Vdr6H9DHQQ&disp=emb&realattid=180795a824eba2bd9de1");
     background-size:contain;
@@ -109,9 +113,10 @@ body {
 .column-4 {
     float:left;
     width:27%;
-    padding:20px;
-    margin:30px;
+    padding:15px;
+    margin:55px;
     height:250px;
+    margin-right:auto;
 }
 
 .work-1 {
@@ -204,9 +209,4 @@ body {
 .icon-style:hover {
     background-color:#ebbab9;
     padding:5px;
-  }
-
-  @media screen and (min-width:480px) {
-      #leftsidebar {width: 200px; float:left;}
-      #main {margin-left: 216px;}
   }
