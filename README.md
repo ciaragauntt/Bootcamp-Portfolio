@@ -11,3 +11,6 @@
 
 # Link to deployed application
 file:///Users/Ciara/Challenge-2/Portfolio/index.html
+
+# Screenshot
+<img width="1280" alt="Screen Shot 2022-04-30 at 1 28 57 PM" src="https://user-images.githubusercontent.com/103298079/166121996-185b2d5f-1dad-4b51-9cbd-82b25565ee99.png">
