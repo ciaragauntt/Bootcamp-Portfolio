@@ -9,3 +9,5 @@
 * This code only uses html and css, but will have other elements once the course continues.
 * Currently there are not any pieces of work since this is my first real project ever.
 
+# Link to deployed application
+file:///Users/Ciara/Challenge-2/Portfolio/index.html
