@@ -84,7 +84,6 @@ body {
 }
 
 .photo {
-    Image: url("https://mail.google.com/mail/u/0?ui=2&ik=1bdf347f38&attid=0.1&permmsgid=msg-a:r-6098273210628781709&th=180795a91c48872a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9UkWCoKzwgfq-zv_R85riTstkQN6T5VEusM3-JmjvgBSefvLIrHXb7-L7kyBj5Gn7Qv-f6nXHSNYjaQiXZyteboz1Dk29vCksLLPjmM2dbkdNA4Vdr6H9DHQQ&disp=emb&realattid=180795a824eba2bd9de1");
     background-size:contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -98,10 +97,7 @@ body {
     margin-bottom: 50px;
     font-size: 50px;
 }
-.column-3 {
-    float:left;
-    width:95%;
-    padding:125px;
+.MedTracker {
     padding-left:70px;
     padding-right:70px;
     height: 475px;
@@ -120,9 +116,8 @@ body {
 }
 
 .work-1 {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRDdf9wTswIGJhumrGyvo7wOlYrsLCc5Hww&usqp=CAU");
     background-repeat: no-repeat;
-    background-size: 600px;
+    background-size: 20%;
     background-position: center;
 }
 
